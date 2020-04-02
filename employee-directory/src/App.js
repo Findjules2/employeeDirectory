@@ -1,5 +1,4 @@
 import React from "react";
-// import logo from "./logo.svg";
 import "./App.css";
 import API from "./utils/API";
 import EmployeeWrapper from "./components/EmployeeWrapper";
